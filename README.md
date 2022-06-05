@@ -11,7 +11,7 @@
 
 - 💬 I've worked at [Contact smarter](https://contactsmarter.com/)
 
-- 👨‍💻 All of my projects are available at my [https://linkmix.co/9847217](portfolio)
+- 👨‍💻 All of my projects are available at my [portfolio](https://linkmix.co/9847217)
 
 - 💬 Ask me about **React, react-native, web3**
 

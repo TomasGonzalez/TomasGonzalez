@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Solidity, Threejs.**
 
-- 🔭 I have contributed to [Good dollar](https://github.com/GoodDollar/GoodDAPP)
+- 🔭 I have contributed to [LBRY](https://github.com/lbryio/lbry-desktop)
 
-- 💬 I've worked at [Contact smarter](https://contactsmarter.com/)
+- 💬 I've worked at [Good dollar](https://github.com/GoodDollar/GoodDAPP)
 
 - 👨‍💻 Some of my projects are available at my [portfolio](https://linkmix.co/9847217)
 

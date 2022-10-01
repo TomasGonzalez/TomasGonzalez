@@ -11,7 +11,7 @@
 
 - 💬 I've worked at [Good dollar](https://github.com/GoodDollar/GoodDAPP)
 
-- 👨‍💻 Some of my projects are available in my [portfolio](https://linkmix.co/9847217)
+- 👨‍💻 Some of my projects are available in my [portfolio](https://tomasgonzalez.github.io)
 
 - 💬 Ask me about **React, react-native, web3**
 

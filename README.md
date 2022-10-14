@@ -5,7 +5,7 @@
 
 - 👯 I’m currently working on [rock-paper-sword-ar](https://github.com/TomasGonzalez/rock-paper-sword-ar)
 
-- 🌱 I’m currently learning **Solidity, Threejs.**
+- 🌱 I’m currently learning **Tensorflowjs, Threejs.**
 
 - 🔭 I have contributed to [Good dollar](https://github.com/GoodDollar/GoodDAPP)
 

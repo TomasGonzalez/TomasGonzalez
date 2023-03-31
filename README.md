@@ -3,17 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasgonzalez" alt="tomasgonzalez" /></a> </p>
 
-- 👯 I’m currently working on [rock-paper-sword-ar](https://github.com/TomasGonzalez/rock-paper-sword-ar)
-
-- 🌱 I’m currently learning **Tensorflowjs, Threejs.**
-
-- 🔭 I have contributed to [Good dollar](https://github.com/GoodDollar/GoodDAPP)
-
-- 💬 I've worked at [Good dollar](https://github.com/GoodDollar/GoodDAPP)
-
-- 👨‍💻 Some of my projects are available in my [portfolio](https://tomasgonzalez.github.io/3d-portfolio)
-
-- 💬 Ask me about **React, ReactNative, Web3, WebGL**
+![GitHub Snake Dark](https://ytzkahagpsrnsfliekzi.supabase.co/storage/v1/object/public/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 - 📫 How to reach me **https://www.linkedin.com/in/tomas-gonzalez-perez-8784a2133/**
 

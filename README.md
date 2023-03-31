@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasgonzalez" alt="tomasgonzalez" /></a> </p>
 
-![GitHub Snake Dark](https://ytzkahagpsrnsfliekzi.supabase.co/storage/v1/object/public/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 - 📫 How to reach me **https://www.linkedin.com/in/tomas-gonzalez-perez-8784a2133/**
 
 <h3 align="left">Connect with me:</h3>
